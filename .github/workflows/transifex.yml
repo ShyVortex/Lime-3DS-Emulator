@@ -1,4 +1,4 @@
-name: citra-transifex
+name: lime-transifex
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: citra-publish
+name: lime-publish
 
 on:
   schedule:

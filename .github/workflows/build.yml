@@ -1,4 +1,4 @@
-name: citra-build
+name: lime-build
 
 on:
   push:
